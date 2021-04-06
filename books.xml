@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><books>
+    <book id="1">
+        <author>Sun Tzu</author>
+        <genre>Historic</genre>
+        <price>15</price>
+        <quantity>1</quantity>
+        <title>The art of War</title>
+    </book>
+
+
+    <book id="3">
+        <author>Vasile Laba</author>
+        <genre>Historic</genre>
+        <price>415</price>1242.
+
+        <quantity>67</quantity>
+        <title>The fart of War</title>
+    </book>
+</books>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><sales>
+    <sale id="1">
+        <userId>1</userId>
+        <bookIds>
+            <bookId>1</bookId>
+            <bookId>2</bookId>
+            <bookId>3</bookId>
+        </bookIds>
+    </sale>
+    
+</sales>
